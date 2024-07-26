@@ -15,8 +15,9 @@ My research interests lien in Natural Language Processing, Machine Learning, Com
 Education
 ======
 🎓Ph.D. in Machine Learning at OIST(2024-Present)
+
 🎓BSc(Hons) in Computer Science at The University of Manchester
 
 CV
 ======
-[My CV](https://yypy22.github.io/files/Resume - Google Docs.pdf)
+[My CV](http://yypy22.github.io/files/Resume - Google Docs.pdf)
