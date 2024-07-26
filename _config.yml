@@ -12,7 +12,7 @@ title                    : "Eiji Miyamoto / Profile"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "OIST Ph.D. Student(D1) in Machine Learning"
-url                      : https://yypy22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yypy22.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yypy22/yypy22.github.io"
 
