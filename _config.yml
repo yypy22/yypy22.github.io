@@ -21,14 +21,14 @@ repository               : "yypy22/yypy22.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "4614_0426694.jpg"
+  name             : "Eiji Miyamoto"
+  pronouns         : "he/him"  
+  bio              : "OIST Ph.D. Student(D1) in Machine Learning"
+  location         : "Okinawa, Japan"
+  employer         : "Okinawa Institute of Science and Technology Graduate University"
+  uri              : "https://www.oist.jp/"
+  email            : "motopon57@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
