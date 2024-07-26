@@ -27,7 +27,7 @@ author:
   bio              : "OIST Ph.D. Student(D1) in Machine Learning"
   location         : "Okinawa, Japan"
   employer         : "Okinawa Institute of Science and Technology Graduate University"
-  uri              : "https://www.oist.jp/"
+  url              : https://www.oist.jp/
   email            : "motopon57@gmail.com" 
 
   # Academic websites
