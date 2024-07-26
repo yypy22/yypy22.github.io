@@ -20,4 +20,4 @@ Education
 
 CV
 ======
-[My CV](http://yypy22.github.io/files/Resume - Google Docs.pdf)
+[My CV]([http://yypy22.github.io/files/Resume - Google Docs.pdf](https://github.com/yypy22/yypy22.github.io/blob/master/files/Resume%20-%20Google%20Docs.pdf))
