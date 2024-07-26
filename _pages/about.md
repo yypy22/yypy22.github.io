@@ -19,4 +19,4 @@ Education
 
 CV
 ======
-My CV
+[My CV](https://yypy22.github.io/files/Resume - Google Docs.pdf)
