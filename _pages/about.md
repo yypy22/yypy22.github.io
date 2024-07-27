@@ -16,7 +16,7 @@ Education
 ======
 🎓Ph.D. in Machine Learning at OIST(2024-Present)
 
-🎓BSc(Hons) in Computer Science at The University of Manchester
+🎓BSc(Hons) in Computer Science at The University of Manchester(2021-2024)
 
 CV
 ======
