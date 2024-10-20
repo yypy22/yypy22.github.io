@@ -10,7 +10,7 @@ redirect_from:
 Hi There! I am Eiji Miyamoto and I am a Ph.D. Student in Machine Learning at Okinawa Institute of Science and Technology Graduate University(OIST).
 I joined the [Machine Learning and Data Science Unit](https://www.oist.jp/research/research-units/mlds) in 2024, where I have been advised by Prof. Makoto Yamada. 
 
-My research interests lie in Natural Language Processing, Machine Learning, and Computational Neuroscience.
+My research interests lie in Natural Language Processing, Machine Learning, Computational Neuroscience, and Brain Science.
 
 Education
 ======
